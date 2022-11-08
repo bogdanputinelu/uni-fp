@@ -1,1 +1,2 @@
-# uni-pf
+# Programare Functionala
+In Haskell
